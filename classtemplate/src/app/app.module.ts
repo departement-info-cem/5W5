@@ -10,6 +10,7 @@ import { MatButtonModule } from '@angular/material/button';
 import { ContentComponent } from './content/content.component';
 import { MatExpansionModule } from '@angular/material/expansion';
 import { MatIconModule } from '@angular/material/icon';
+import { HttpClientModule } from '@angular/common/http';
 
 // For Deploy
 // https://github.com/angular-schule/angular-cli-ghpages
@@ -28,6 +29,7 @@ import { MatIconModule } from '@angular/material/icon';
     MatButtonModule,
     MatExpansionModule,
     MatIconModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]
