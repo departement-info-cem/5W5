@@ -3,6 +3,7 @@ import { WEEK_STYLE } from '../models/enum';
 import { CLASS_TEMPLATE } from '../models/data';
 import { DeviceDetectorService } from 'ngx-device-detector';
 import { ClassTemplate, Week } from '../models/models';
+import { HttpClient } from '@angular/common/http';
 
 @Component({
   selector: 'app-class',
@@ -14,9 +15,13 @@ export class ClassComponent implements OnInit {
   template: ClassTemplate = CLASS_TEMPLATE;
   WEEK_STYLE = WEEK_STYLE;
 
-  constructor(private deviceService: DeviceDetectorService) { }
+  constructor(private deviceService: DeviceDetectorService, private http: HttpClient) { }
 
-  ngOnInit(): void {
+  ngOnInit() {
+   
+    this.http.get<ClassTemplate>('assets/data.json').subscribe(response => {
+      this.template = response;
+    });
   }
 
   isMobile(): boolean {
