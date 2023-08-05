@@ -8,22 +8,24 @@
       "content": [
         {"text":"Rappel de Web API et MVC","contype":"text"},
         {"text":"Avoir Web API et MVC dans une même application","contype":"text"},
+        {"text":"Utiliser les Cookies pour se connecter à l'application","contype":"text"},
         {"text":"Les bonnes pratiques pour ajouter un projet à Git","contype":"text"},
+        {"text":"Gitflow 👉 Gestion des branches par feature","contype":"text"},
         {"text":"Former les équipes de 4 pour le projet","contype":"assignment"}
       ],
       "documents": [
-        {"data":"https://github.com/jmnadeau/4W6-exercices", "title":"Exemple fichiers de départs et solutions des exercices", "doctype":"link"}
+        {"data":"", "title":"Aucun document disponible", "doctype":"text"}
       ],
       "videos": [
-        {"data":"16XngEZ7Phg", "title":"Exemple d'une vidéo", "doctype":"video"}
+        {"data":"", "title":"Aucune vidéo disponible", "doctype":"video"}
       ],
       "homework": [
         {"data":"", "title":"Finir les exercices", "doctype":"text"},
         {"data":"./assets/TP/TP1 - Super Cartes Infinies.docx", "title":"Super Cartes Infinies", "doctype":"link"},
         {"data":"", "title":"Débuter le TP1", "doctype":"text"}
       ],
-      "presentation": "https://jmnadeau.github.io/slidemaker/#/4W6/semaine1",
-      "exercices": "https://jmnadeau.github.io/slidemaker/#/4W6/exercices1"
+      "presentation": "https://jmnadeau.github.io/slidemaker/#/5W5/semaine1",
+      "exercices": "https://jmnadeau.github.io/slidemaker/#/5W5/exercices1"
     },
     {
       "weeknumber": "02",
@@ -31,7 +33,6 @@
       "content": [
         {"text":"Partage efficace des tâches","contype":"text"},
         {"text":"Création d'un projet DevOps","contype":"text"},
-        {"text":"Gitflow 👉 Gestion des branches par feature","contype":"text"},
         {"text":"Test Driven Developpement (TDD)","contype":"text"}
       ],
       "documents": [
