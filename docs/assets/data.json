@@ -10,14 +10,14 @@
         {"text":"Avoir Web API et MVC dans une même application","contype":"text"},
         {"text":"Utiliser les Cookies pour se connecter à l'application","contype":"text"},
         {"text":"Les bonnes pratiques pour ajouter un projet à Git","contype":"text"},
-        {"text":"Gitflow 👉 Gestion des branches par feature","contype":"text"},
+        {"text":"Gestion des branches par feature","contype":"text"},
         {"text":"Former les équipes de 4 pour le projet","contype":"assignment"}
       ],
       "documents": [
         {"data":"", "title":"Aucun document disponible", "doctype":"text"}
       ],
       "videos": [
-        {"data":"", "title":"Aucune vidéo disponible", "doctype":"video"}
+        {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
       ],
       "homework": [
         {"data":"", "title":"Finir les exercices", "doctype":"text"},
