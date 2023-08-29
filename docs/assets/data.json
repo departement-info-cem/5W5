@@ -29,7 +29,7 @@
     },
     {
       "weeknumber": "02",
-      "title": "Travailler collaboratif et trucs complexes 🤯",
+      "title": "Travaille collaboratif et trucs complexes 🤯",
       "content": [
         {"text":"Partage efficace des tâches","contype":"text"},
         {"text":"Création d'un projet DevOps","contype":"text"},
@@ -37,16 +37,18 @@
         {"text":"Validater des formulaires en Angular -> Les Reactives Forms","contype":"text"}
       ],
       "documents": [
-        {"data":"", "title":"Documents à venir", "doctype":"text"}
+        {"data":"", "title":"Aucun documents disponible", "doctype":"text"}
       ],
       "videos": [
-        {"data":"", "title":"Vidéo à venir", "doctype":"text"}
+        {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
       ],
       "homework": [
         {"data":"", "title":"Finir les exercices", "doctype":"text"},
         {"data":"./assets/TP/TP1 - 5W5.docx", "title":"Super Cartes Infinies", "doctype":"link"},
         {"data":"", "title":"Travail personnel 1", "doctype":"text"}
-      ]
+      ],
+      "presentation": "https://jmnadeau.github.io/slidemaker/#/5W5/semaine2",
+      "exercices": "https://jmnadeau.github.io/slidemaker/#/5W5/exercices2"
     },
     {
       "weeknumber": "03",
