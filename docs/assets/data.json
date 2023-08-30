@@ -37,7 +37,8 @@
         {"text":"Validater des formulaires en Angular -> Les Reactives Forms","contype":"text"}
       ],
       "documents": [
-        {"data":"", "title":"Aucun document disponible", "doctype":"text"}
+        {"data":"./assets/TP/ngsci.zip", "title":"Projet de départ du TP1 - Angular", "doctype":"link"},
+        {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"}
       ],
       "videos": [
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
@@ -61,10 +62,11 @@
         {"text":"Les Guards en Angular","contype":"text"}
       ],
       "documents": [
-        {"data":"", "title":"Documents à venir", "doctype":"text"}
+        {"data":"./assets/TP/ngsci.zip", "title":"Projet de départ du TP1 - Angular", "doctype":"link"},
+        {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"}
       ],
       "videos": [
-        {"data":"", "title":"Vidéo à venir", "doctype":"text"}
+        {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
       ],
       "homework": [
         {"data":"", "title":"Finir les exercices", "doctype":"text"},
@@ -83,10 +85,11 @@
         {"text":"La gestion du jeu par évènements","contype":"text"}
       ],
       "documents": [
-        {"data":"", "title":"Documents à venir", "doctype":"text"}
+        {"data":"./assets/TP/ngsci.zip", "title":"Projet de départ du TP1 - Angular", "doctype":"link"},
+        {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"}
       ],
       "videos": [
-        {"data":"", "title":"Vidéo à venir", "doctype":"text"}
+        {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
       ],
       "homework": [
         {"data":"", "title":"Finir les exercices", "doctype":"text"},
@@ -103,10 +106,11 @@
         {"text":"Examen formatif","contype":"text"}
       ],
       "documents": [
-        {"data":"", "title":"Documents à venir", "doctype":"text"}
+        {"data":"./assets/TP/ngsci.zip", "title":"Projet de départ du TP1 - Angular", "doctype":"link"},
+        {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"}
       ],
       "videos": [
-        {"data":"", "title":"Vidéo à venir", "doctype":"text"}
+        {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
 
       ],
       "homework": [
