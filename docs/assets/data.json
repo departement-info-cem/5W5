@@ -14,7 +14,9 @@
         {"text":"Former les équipes de 4 pour le projet","contype":"assignment"}
       ],
       "documents": [
-        {"data":"", "title":"Aucun document disponible", "doctype":"text"}
+        {"data":"https://github.com/CEM-420-5W5/ExerciceCours1", "title":"Solution à l'exercice de révision", "doctype":"link"},
+        {"data":"https://github.com/CEM-420-5W5/ExerciceCours2", "title":"Solution du Login avec Cookies - Backend", "doctype":"link"},
+        {"data":"https://github.com/CEM-420-5W5/ngCours2", "title":"Solution du Login avec Cookies - Angular", "doctype":"link"}
       ],
       "videos": [
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
@@ -38,7 +40,9 @@
       ],
       "documents": [
         {"data":"./assets/TP/ngsci.zip", "title":"Projet de départ du TP1 - Angular", "doctype":"link"},
-        {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"}
+        {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"},
+        {"data":"https://github.com/CEM-420-5W5/ExerciceCours3_Area", "title":"Solution à l'exercice sur les Areas", "doctype":"link"},
+        {"data":"https://github.com/CEM-420-5W5/ngCours3ReactiveForms", "title":"Solution à l'exercice sur les Reactive Forms", "doctype":"link"},
       ],
       "videos": [
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
