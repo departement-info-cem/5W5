@@ -42,7 +42,7 @@
         {"data":"./assets/TP/ngsci.zip", "title":"Projet de départ du TP1 - Angular", "doctype":"link"},
         {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"},
         {"data":"https://github.com/CEM-420-5W5/ExerciceCours3_Area", "title":"Solution à l'exercice sur les Areas", "doctype":"link"},
-        {"data":"https://github.com/CEM-420-5W5/ngCours3ReactiveForms", "title":"Solution à l'exercice sur les Reactive Forms", "doctype":"link"},
+        {"data":"https://github.com/CEM-420-5W5/ngCours3ReactiveForms", "title":"Solution à l'exercice sur les Reactive Forms", "doctype":"link"}
       ],
       "videos": [
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
