@@ -59,7 +59,6 @@
       "weeknumber": "03",
       "title": "Déployer une application 🖥️ et routage avancé en Angular",
       "content": [
-        {"text":"Ajouter un projet angular à une solution","contype":"text"},
         {"text":"Migrer une base de données vers un autre système de gestion de BD (SGBD)","contype":"text"},
         {"text":"Déployer avec Azure App Service","contype":"text"},
         {"text":"Les routes enfants en Angular","contype":"text"},
@@ -76,7 +75,9 @@
         {"data":"", "title":"Finir les exercices", "doctype":"text"},
         {"data":"./assets/TP/TP1 - 5W5.docx", "title":"Super Cartes Infinies", "doctype":"link"},
         {"data":"", "title":"Travail personnel 1", "doctype":"text"}
-      ]
+      ],
+      "presentation": "https://jmnadeau.github.io/slidemaker/#/5W5/semaine3",
+      "exercices": "https://jmnadeau.github.io/slidemaker/#/5W5/exercices3"
     },
     {
       "weeknumber": "04",
