@@ -62,11 +62,13 @@
         {"text":"Migrer une base de données vers un autre système de gestion de BD (SGBD)","contype":"text"},
         {"text":"Déployer avec Azure App Service","contype":"text"},
         {"text":"Les routes enfants en Angular","contype":"text"},
-        {"text":"Les Guards en Angular","contype":"text"}
+        {"text":"Les Guards en Angular","contype":"text"},
+        {"text":"Le polling avec Angular","contype":"text"}
       ],
       "documents": [
         {"data":"./assets/TP/ngsci.zip", "title":"Projet de départ du TP1 - Angular", "doctype":"link"},
-        {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"}
+        {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"},
+        {"data":"https://github.com/CEM-420-5W5/ngRoutage", "title":"Solution de l'exercice - Routage Angular", "doctype":"link"}
       ],
       "videos": [
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
@@ -87,7 +89,8 @@
         {"text":"Créer une BD en mémoire pour l'exécution des tests","contype":"text"},
         {"text":"Visualiser la couverture du code","contype":"text"},
         {"text":"Les animations en Angular","contype":"text"},
-        {"text":"La gestion du jeu par évènements","contype":"text"}
+        {"text":"La gestion du jeu par évènements","contype":"text"},
+        {"text":"La polling avec Angular","contype":"text"}
       ],
       "documents": [
         {"data":"./assets/TP/ngsci.zip", "title":"Projet de départ du TP1 - Angular", "doctype":"link"},
