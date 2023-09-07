@@ -105,7 +105,8 @@
         {"data":"", "title":"Finir les exercices", "doctype":"text"},
         {"data":"./assets/TP/TP1 - 5W5.docx", "title":"Super Cartes Infinies", "doctype":"link"},
         {"data":"", "title":"Travail personnel 1", "doctype":"text"}
-      ]
+      ],
+      "presentation": "https://jmnadeau.github.io/slidemaker/#/5W5/semaine4"
     },
     {
       "weeknumber": "05",
