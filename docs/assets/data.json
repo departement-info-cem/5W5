@@ -68,7 +68,8 @@
       "documents": [
         {"data":"./assets/TP/ngsci.zip", "title":"Projet de départ du TP1 - Angular", "doctype":"link"},
         {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"},
-        {"data":"https://github.com/CEM-420-5W5/ngRoutage", "title":"Solution de l'exercice - Routage Angular", "doctype":"link"}
+        {"data":"https://github.com/CEM-420-5W5/ngRoutage", "title":"Solution de l'exercice - Routage Angular", "doctype":"link"},
+        {"data":"https://gray-pond-05003ef10.3.azurestaticapps.net/", "title":"Démo du projet", "doctype":"link"}
       ],
       "videos": [
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
@@ -94,7 +95,8 @@
       ],
       "documents": [
         {"data":"./assets/TP/ngsci.zip", "title":"Projet de départ du TP1 - Angular", "doctype":"link"},
-        {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"}
+        {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"},
+        {"data":"https://gray-pond-05003ef10.3.azurestaticapps.net/", "title":"Démo du projet", "doctype":"link"}
       ],
       "videos": [
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
@@ -115,7 +117,8 @@
       ],
       "documents": [
         {"data":"./assets/TP/ngsci.zip", "title":"Projet de départ du TP1 - Angular", "doctype":"link"},
-        {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"}
+        {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"},
+        {"data":"https://gray-pond-05003ef10.3.azurestaticapps.net/", "title":"Démo du projet", "doctype":"link"}
       ],
       "videos": [
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
