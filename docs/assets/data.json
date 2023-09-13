@@ -69,7 +69,8 @@
         {"data":"./assets/TP/ngsci.zip", "title":"Projet de départ du TP1 - Angular", "doctype":"link"},
         {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"},
         {"data":"https://github.com/CEM-420-5W5/ngRoutage", "title":"Solution de l'exercice - Routage Angular", "doctype":"link"},
-        {"data":"https://gray-pond-05003ef10.3.azurestaticapps.net/", "title":"Démo du projet", "doctype":"link"}
+        {"data":"https://gray-pond-05003ef10.3.azurestaticapps.net/", "title":"Démo du projet - Client", "doctype":"link"},
+        {"data":"https://apisupercartesinfinies.azurewebsites.net/", "title":"Démo du projet - Backend", "doctype":"link"}
       ],
       "videos": [
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
@@ -96,7 +97,10 @@
       "documents": [
         {"data":"./assets/TP/ngsci.zip", "title":"Projet de départ du TP1 - Angular", "doctype":"link"},
         {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"},
-        {"data":"https://gray-pond-05003ef10.3.azurestaticapps.net/", "title":"Démo du projet", "doctype":"link"}
+        {"data":"https://gray-pond-05003ef10.3.azurestaticapps.net/", "title":"Démo du projet - Client", "doctype":"link"},
+        {"data":"https://apisupercartesinfinies.azurewebsites.net/", "title":"Démo du projet - Backend", "doctype":"link"},
+        {"data":"https://github.com/CEM-420-5W5/Animations", "title":"Démo des animations", "doctype":"link"},
+        {"data":"./assets/5W5_Events.pptx", "title":"Fonctionnement du Gameplay - Les Events!!!", "doctype":"link"}
       ],
       "videos": [
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
@@ -104,6 +108,7 @@
       "homework": [
         {"data":"", "title":"Finir les exercices", "doctype":"text"},
         {"data":"./assets/TP/TP1 - 5W5.docx", "title":"Super Cartes Infinies", "doctype":"link"},
+        {"data":"./assets/TP/TP1 - 5W5 - Correction.docx", "title":"Super Cartes Infinies - Grille de correction", "doctype":"link"},
         {"data":"", "title":"Travail personnel 1", "doctype":"text"}
       ],
       "presentation": "https://jmnadeau.github.io/slidemaker/#/5W5/semaine4"
@@ -119,7 +124,8 @@
       "documents": [
         {"data":"./assets/TP/ngsci.zip", "title":"Projet de départ du TP1 - Angular", "doctype":"link"},
         {"data":"./assets/TP/sci.zip", "title":"Projet de départ du TP1 - asp.net", "doctype":"link"},
-        {"data":"https://gray-pond-05003ef10.3.azurestaticapps.net/", "title":"Démo du projet", "doctype":"link"}
+        {"data":"https://gray-pond-05003ef10.3.azurestaticapps.net/", "title":"Démo du projet - Client", "doctype":"link"},
+        {"data":"https://apisupercartesinfinies.azurewebsites.net/", "title":"Démo du projet - Backend", "doctype":"link"}
       ],
       "videos": [
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
@@ -127,6 +133,7 @@
       ],
       "homework": [
         {"data":"./assets/TP/TP1 - 5W5.docx", "title":"Super Cartes Infinies", "doctype":"link"},
+        {"data":"./assets/TP/TP1 - 5W5 - Correction.docx", "title":"Super Cartes Infinies - Grille de correction", "doctype":"link"},
         {"data":"", "title":"Compléter le TP1", "doctype":"text"}
       ]
     },
