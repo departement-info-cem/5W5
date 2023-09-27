@@ -147,7 +147,8 @@
         {"text":"Tous documents permis","contype":"text"}
       ],
       "documents": [
-        {"data":"", "title":"Tous documents permis lors de l'examen", "doctype":"text"}
+        {"data":"", "title":"Tous documents permis lors de l'examen", "doctype":"text"},
+        {"data":"./assets/IntraFormatif.docx", "title":"Examen 1 - Formatif", "doctype":"link"}
       ],
       "videos": [
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
