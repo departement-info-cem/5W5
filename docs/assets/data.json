@@ -159,6 +159,26 @@
       ]
     },
     {
+      "weeknumber": "07",
+      "title": "TP2 et Test-driven Development",
+      "content": [
+        {"text":"Examen retour sur l'examen 1","contype":"text"},
+        {"text":"Retour sur le Sprint 1","contype":"text"},
+        {"text":"Présentation du TP2","contype":"text"},
+        {"text":"Test-driven Development","contype":"text"}
+      ],
+      "documents": [
+        {"data":"./assets/TestDrivenDevelopment.pptx", "title":"Présentation TDD", "doctype":"link"},
+        {"data":"./assets/TP/TP2 - 5W5.docx", "title":"Super Cartes Infinies - Sprint 2", "doctype":"link"}
+      ],
+      "videos": [
+        {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
+      ],
+      "homework": [
+        {"data":"", "title":"Débuter le TP2", "doctype":"text"}
+      ]
+    },
+    {
       "weeknumber": "15",
       "title": "Examen 2",
       "content": [
