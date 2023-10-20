@@ -179,6 +179,25 @@
       ]
     },
     {
+      "weeknumber": "08",
+      "title": "Git et sérialisation",
+      "content": [
+        {"text":"Bonnes pratiques Git #2","contype":"text"},
+        {"text":"Gestion des conflits et stratégies de merge","contype":"text"},
+        {"text":"Les Pull Request","contype":"text"}
+      ],
+      "documents": [
+        {"data":"./assets/Exercice - Git.docx", "title":"Exercice Git - Merge, Conflits et Pull Request", "doctype":"link"}        
+      ],
+      "videos": [
+        {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
+      ],
+      "homework": [
+        {"data":"./assets/TP/TP2 - 5W5.docx", "title":"Super Cartes Infinies - Sprint 2", "doctype":"link"},
+        {"data":"", "title":"Poursuivre le TP2", "doctype":"text"}
+      ]
+    },
+    {
       "weeknumber": "15",
       "title": "Examen 2",
       "content": [
