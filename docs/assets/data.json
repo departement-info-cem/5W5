@@ -245,7 +245,7 @@
       "title": "Les Web Sockets",
       "content": [
 		{"text":"Être awesome avec des web sockets","contype":"text"},
-        {"text":"Utiliser des web sockets flasher","contype":"text"},
+        {"text":"Utiliser des web sockets pour flasher","contype":"text"},
 		{"text":"Pouvoir dire en entrevue que tu sais c'est quoi des web sockets","contype":"text"},
         {"text":"Aussi faire un peu des trucs utiles pour le gameplay","contype":"text"},
 		{"text":"Web socket > Polling","contype":"text"}
