@@ -184,10 +184,13 @@
       "content": [
         {"text":"Bonnes pratiques Git #2","contype":"text"},
         {"text":"Gestion des conflits et stratégies de merge","contype":"text"},
-        {"text":"Les Pull Request","contype":"text"}
+        {"text":"Les Pull Request","contype":"text"},
+		{"text":"La sérialisation des Events","contype":"text"},
+		{"text":"Sécurité et sérialisation ","contype":"text"}
       ],
       "documents": [
-        {"data":"./assets/Exercice - Git.docx", "title":"Exercice Git - Merge, Conflits et Pull Request", "doctype":"link"}        
+        {"data":"./assets/Exercice - Git.docx", "title":"Exercice Git - Merge, Conflits et Pull Request", "doctype":"link"},
+		{"data":"./assets/Serialisation.pptx", "title":"Présentation - La sérialisation", "doctype":"link"}        
       ],
       "videos": [
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
@@ -198,13 +201,126 @@
       ]
     },
     {
+      "weeknumber": "09",
+      "title": "Tests unitaires 2000",
+      "content": [
+        {"text":"Moq et les Mocks pour simplifier les tests unitaires","contype":"text"},
+		{"text":"Faire des tests unitaires sur les contrôleurs","contype":"text"},
+        {"text":"Les Stubs pour aider le développement","contype":"text"},
+		{"text":"Tester efficacement votre application lors du développement","contype":"text"}
+      ],
+      "documents": [
+        {"data":"", "title":"aucun document disponible", "doctype":"text"}
+      ],
+      "videos": [
+        {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
+      ],
+      "homework": [
+        {"data":"./assets/TP/TP2 - 5W5.docx", "title":"Super Cartes Infinies - Sprint 2", "doctype":"link"},
+        {"data":"", "title":"Poursuivre le TP2", "doctype":"text"}
+      ]
+    },	
+    {
+      "weeknumber": "10",
+      "title": "Outils de développement",
+      "content": [
+		{"text":"Lier DevOps et Github pour documenter vos commits et vos tâches","contype":"text"},
+        {"text":"Utiliser 2 types de BD différentes dans un projet","contype":"text"},
+		{"text":"Installer Swagger","contype":"text"},
+        {"text":"Appliquer des migrations à partir d'un dashboard admin","contype":"text"}
+      ],
+      "documents": [
+        {"data":"", "title":"aucun document disponible", "doctype":"text"}
+      ],
+      "videos": [
+        {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
+      ],
+      "homework": [
+        {"data":"./assets/TP/TP2 - 5W5.docx", "title":"Super Cartes Infinies - Sprint 2", "doctype":"link"},
+        {"data":"", "title":"Poursuivre le TP2", "doctype":"text"}
+      ]
+    },		
+    {
+      "weeknumber": "11",
+      "title": "Les Web Sockets",
+      "content": [
+		{"text":"Être awesome avec des web sockets","contype":"text"},
+        {"text":"Utiliser des web sockets flasher","contype":"text"},
+		{"text":"Pouvoir dire en entrevue que tu sais c'est quoi des web sockets","contype":"text"},
+        {"text":"Aussi faire un peu des trucs utiles pour le gameplay","contype":"text"},
+		{"text":"Web socket > Polling","contype":"text"}
+      ],
+      "documents": [
+        {"data":"", "title":"aucun document disponible", "doctype":"text"}
+      ],
+      "videos": [
+        {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
+      ],
+      "homework": [
+        {"data":".", "title":"Super Cartes Infinies - Sprint 3", "doctype":"text"},
+        {"data":"", "title":"Débuter le TP3", "doctype":"text"}
+      ]
+    },		
+    {
+      "weeknumber": "12",
+      "title": "Le Néant",
+      "content": [
+		{"text":"Faire des trucs amusants","contype":"assignment"}
+      ],
+      "documents": [
+        {"data":"", "title":"aucun document disponible", "doctype":"text"}
+      ],
+      "videos": [
+        {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
+      ],
+      "homework": [
+        {"data":".", "title":"Super Cartes Infinies - Sprint 3", "doctype":"text"},
+        {"data":"", "title":"Poursuivre le TP3", "doctype":"text"}
+      ]
+    },			
+    {
+      "weeknumber": "13",
+      "title": "Le Vide",
+      "content": [
+		{"text":"Faire des trucs amusants","contype":"assignment"}
+      ],
+      "documents": [
+        {"data":"", "title":"aucun document disponible", "doctype":"text"}
+      ],
+      "videos": [
+        {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
+      ],
+      "homework": [
+        {"data":".", "title":"Super Cartes Infinies - Sprint 3", "doctype":"text"},
+        {"data":"", "title":"Poursuivre le TP3", "doctype":"text"}
+      ]
+    },	
+			
+    {
+      "weeknumber": "14",
+      "title": "Rien",
+      "content": [
+		{"text":"Faire des trucs amusants","contype":"assignment"}
+      ],
+      "documents": [
+        {"data":"", "title":"aucun document disponible", "doctype":"text"}
+      ],
+      "videos": [
+        {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
+      ],
+      "homework": [
+        {"data":".", "title":"Super Cartes Infinies - Sprint 3", "doctype":"text"},
+        {"data":"", "title":"Poursuivre le TP3", "doctype":"text"}
+      ]
+    },	
+    {
       "weeknumber": "15",
       "title": "Examen 2",
       "content": [
         {"text":"Examen 2", "contype":"assignment"},
         {"text":"Fait individuellement","contype":"text"},
         {"text":"Tous documents permis","contype":"text"},
-        {"text":"Remise du TP4", "contype":"assignment"}
+        {"text":"Remise du TP3", "contype":"assignment"}
       ],
       "documents": [
         {"data":"", "title":"Tous documents permis", "doctype":"text"}
