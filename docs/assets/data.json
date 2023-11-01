@@ -211,8 +211,8 @@
       ],
       "documents": [
         {"data":"./assets/Mocks et Stub.pptx", "title":"Présentation - Les Mocks!", "doctype":"link"},
-        {"data":"https://github.com/CEM-420-5W5/action.result", "title":"Exemple - Tester un ActionResult", "doctype":"link"}
-        {"data":"https://github.com/CEM-420-5W5/mock.depart", "title":"Exercice - Mocks - Fichiers de départ", "doctype":"link"}
+        {"data":"https://github.com/CEM-420-5W5/action.result", "title":"Exemple - Tester un ActionResult", "doctype":"link"},
+        {"data":"https://github.com/CEM-420-5W5/mock.depart", "title":"Exercice - Mocks - Fichiers de départ", "doctype":"link"},
         {"data":"https://github.com/CEM-420-5W5/mock.solution", "title":"Exercice - Mocks - Solution", "doctype":"link"}
       ],
       "videos": [
