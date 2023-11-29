@@ -264,7 +264,7 @@
       ],
       "homework": [
         {"data":"https://github.com/CEM-420-5W5/labo.signalr", "title":"Exercice - Web Sockets", "doctype":"link"},
-        {"data":".", "title":"Super Cartes Infinies - Sprint 3", "doctype":"text"},
+        {"data":"./assets/TP/TP3 - 5W5.docx", "title":"Super Cartes Infinies - Sprint 3", "doctype":"link"},
         {"data":"", "title":"Débuter le TP3", "doctype":"text"}
       ]
     },		
@@ -281,7 +281,7 @@
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
       ],
       "homework": [
-        {"data":".", "title":"Super Cartes Infinies - Sprint 3", "doctype":"text"},
+        {"data":"./assets/TP/TP3 - 5W5.docx", "title":"Super Cartes Infinies - Sprint 3", "doctype":"link"},
         {"data":"", "title":"Poursuivre le TP3", "doctype":"text"}
       ]
     },			
@@ -298,7 +298,7 @@
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
       ],
       "homework": [
-        {"data":".", "title":"Super Cartes Infinies - Sprint 3", "doctype":"text"},
+        {"data":"./assets/TP/TP3 - 5W5.docx", "title":"Super Cartes Infinies - Sprint 3", "doctype":"link"},
         {"data":"", "title":"Poursuivre le TP3", "doctype":"text"}
       ]
     },	
@@ -316,7 +316,7 @@
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
       ],
       "homework": [
-        {"data":".", "title":"Super Cartes Infinies - Sprint 3", "doctype":"text"},
+        {"data":"./assets/TP/TP3 - 5W5.docx", "title":"Super Cartes Infinies - Sprint 3", "doctype":"link"},
         {"data":"", "title":"Poursuivre le TP3", "doctype":"text"}
       ]
     },	
