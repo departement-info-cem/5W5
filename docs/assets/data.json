@@ -247,19 +247,23 @@
       "weeknumber": "11",
       "title": "Les Web Sockets",
       "content": [
-		{"text":"Être awesome avec des web sockets","contype":"text"},
+        {"text":"Être awesome avec des web sockets","contype":"text"},
         {"text":"Utiliser des web sockets pour flasher","contype":"text"},
-		{"text":"Pouvoir dire en entrevue que tu sais c'est quoi des web sockets","contype":"text"},
+        {"text":"Pouvoir dire en entrevue que tu sais c'est quoi des web sockets","contype":"text"},
         {"text":"Aussi faire un peu des trucs utiles pour le gameplay","contype":"text"},
-		{"text":"Web socket > Polling","contype":"text"}
+        {"text":"Web socket > Polling","contype":"text"}
       ],
       "documents": [
-        {"data":"", "title":"aucun document disponible", "doctype":"text"}
+        {"data":"./assets/5W5_SignalR.pptx", "title":"PowerPoint sur SignalR", "doctype":"link"},
+        {"data":"https://github.com/CEM-420-5W5/signalr", "title":"Code source de la démo", "doctype":"link"},
+        {"data":"https://github.com/CEM-420-5W5/labo.signalr", "title":"Exercice - Web Sockets", "doctype":"link"},
+        {"data":"https://github.com/CEM-420-5W5/labo.signalr/tree/solution", "title":"Exercice - Web Sockets - Solution", "doctype":"link"}
       ],
       "videos": [
         {"data":"", "title":"Aucune vidéo disponible", "doctype":"text"}
       ],
       "homework": [
+        {"data":"https://github.com/CEM-420-5W5/labo.signalr", "title":"Exercice - Web Sockets", "doctype":"link"},
         {"data":".", "title":"Super Cartes Infinies - Sprint 3", "doctype":"text"},
         {"data":"", "title":"Débuter le TP3", "doctype":"text"}
       ]
